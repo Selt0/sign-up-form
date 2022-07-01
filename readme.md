@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# The Odin Project - Sign-up Form
 
 This is a solution to the [Sign-up Form on The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form). 
 

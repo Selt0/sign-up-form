@@ -122,3 +122,27 @@ button {
     height: 50px;
     border-radius: 15px;
 }
+
+@media only screen and (max-width: 768px) {
+ main {
+    flex-direction: column;
+ }
+
+ .img-container {
+    width: 100%;
+    min-height: 400px;
+ }
+
+ .container {
+    margin-top: 0;
+ }
+}
+
+@media screen and (max-width: 520px) {
+    .img-container{
+        min-width: initial;
+    }
+    .form-row {
+        flex-direction: column;
+    }
+}
